@@ -1,5 +1,7 @@
 # SDS - Safe Domotic Shop
 
+## This project is not maintained anymore
+
 Project realized as a thesis for the maturity of the high school ITIS "G. & M. Montani" Fermo address Informatica Abacus, school year 2012/2013.
 
 "SDS - Safe Domotic Shop" aims to demonstrate how computer knowledge can merge with electronic knowledge, in very important aspects of people's daily life, both from the point of view of quality of life, savings, as well as safety .
