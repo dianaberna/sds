@@ -1,6 +1,6 @@
 # SDS - Safe Domotic Shop
 
-## This project is not maintained anymore
+**⚠️ This project is not maintained anymore**
 
 Project realized as a thesis for the maturity of the high school ITIS "G. & M. Montani" Fermo address Informatica Abacus, school year 2012/2013.
 
